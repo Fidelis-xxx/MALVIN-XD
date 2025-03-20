@@ -1,5 +1,5 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
+  "name": "●⁠♡𝑃ℎ𝑒𝑎𝑧𝑦♡࿂",
   "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~p1IBkZiY#V1yhmYnpupcOsqZyiWokeRcwfIH44a6lyZHEcG3hDIg",
       "required": true,
       "value": ""
     },  
@@ -54,7 +54,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -100,30 +100,30 @@
     }, 
 
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "●⁠♡𝑃ℎ𝑒𝑎𝑧𝑦♡࿂",
       "required": false,
-      "value": "Malvin King"
+      "value": "●⁠♡𝑃ℎ𝑒𝑎𝑧𝑦♡࿂"
       
      }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "2349017117779"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
+      "value": "●⁠♡𝑃ℎ𝑒𝑎𝑧𝑦♡࿂"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -142,7 +142,7 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
